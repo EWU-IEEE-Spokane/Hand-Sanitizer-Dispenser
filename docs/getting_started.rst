@@ -17,3 +17,4 @@ Links to introductions
 * `IEEE Recruitment Video <https://www.youtube.com/watch?v=lhcQhQ2hA2s>`_
 
 Guinea pigs are cute
+So are bunnies
