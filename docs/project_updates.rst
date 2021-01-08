@@ -2,8 +2,9 @@
 Project Updates
 ===============
 
-1/8/2021
-30 minute meeting to discuss parts to order and next steps.
+| 1/8/2021
+| 30 minute meeting to discuss parts to order and next steps.
+
 -----
 piggy
 -----
