@@ -26,7 +26,7 @@ Implement software for the device to interface with
 Develop awareness of potential cybersecurity flaws with the device and network
 
 
-Collaborative Learning Goals
+Collaborative Learning Goals:
 Marketing and advertising product in virtual environment
 Network with supporters and donors
 
