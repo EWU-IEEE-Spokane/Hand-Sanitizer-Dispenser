@@ -1,10 +1,19 @@
 ===============
 Project Updates
 ===============
-
+|We meet Fridays at 1pm at the EWU IEEE Zoom Link
+|email: EWU.IEEEclub@gmail.com
+|
+|1/12/2012
+|30 minute meeting to create a dimension spefication design document
+|
 | 1/8/2021
 | 30 minute meeting to discuss parts to order and next steps.
 
+
+|
+|How to use mark down to edit this page:
+|
 -----
 piggy
 -----
